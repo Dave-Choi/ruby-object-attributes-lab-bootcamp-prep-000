@@ -1,0 +1,6 @@
+class Dog
+  @name
+    
+  
+end
+
